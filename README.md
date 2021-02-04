@@ -4,4 +4,4 @@ I'm currently working as Sr. Software Engineer for PayPal. Part of PayPal's Risk
 
 Learning and interested in Research on ML, DL, Quantum Physics+Mechanics+Computing, Biomimicry and Origami.
 
-Love birds, wildlife and nature photography
+Wildlife, birds, nature and landscape photographer
