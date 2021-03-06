@@ -1,7 +1,12 @@
 ### Hi There 👋
 
-I'm currently working as Sr. Software Engineer for PayPal. Part of PayPal's Risk Infra Compute Engineering & MLOps. Work on ML, DL based training and inference platforms & tools with Global Data Science/Research team.
+I'm currently working as Sr. Software Engineer @ PayPal. Part of PayPal's Compute Platform Engineering team and closely work with global data science and research team.
 
-Learning and interested in Research on ML, DL, Quantum Physics+Mechanics+Computing, Biomimicry and Origami.
+* Work on risk infra/platforms for machine, deep learning, NLP training and inference platforms, MLOps pipelines and tools.
+* Work on tech stacks based out-off TensorFlow (Python, Java and JavaScript/Node.js), TensorFlow-Hub, Board, etc., Keras, PyTorch, Scikit-learn, ONNX, TensorRT, Pandas, Numpy, Data-Viz libraries, model metadata, MLFlow, TFX etc.
 
-Wildlife, birds, nature and landscape photographer
+#### Additional
+
+* Study and research about Machine learning, deep learning, Quantum physics, mechanics and computing, and Biomimicry.
+
+* Birds, wildlife, nature photographer and traveller.
