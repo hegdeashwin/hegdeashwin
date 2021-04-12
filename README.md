@@ -5,16 +5,18 @@ I'm currently working as Sr. Software Engineer @ PayPal. Part of PayPal's Comput
 * Work on risk infra/platforms for machine, deep learning, NLP training and inference platforms, MLOps pipelines and tools.
 * Work on tech stacks based out-off TensorFlow (Python, Java and JavaScript/Node.js), TensorFlow-Hub, Board, etc., Keras, PyTorch, Scikit-learn, ONNX, TensorRT, Pandas, Numpy, Data-Viz libraries, model metadata, MLFlow, TFX etc.
 
-### Programming languages:
+### Skills:
+
+On daily basics, I generally work with below listed programming languages and handle multiple projected based out of their usage.
 
 |Programming languages|My usage|
 |:---|:---|
 |JavaScript|Web platform, websites, REST/GRAPHQL APIs, frameworks/libraries/CLI|
-|Python|MLOps, NLP, Deep learning, automation, REST APIs|
+|Python|MLOps, NLP, machine learning, deep learning, REST APIs, automation, frameworks/libraries/CLI|
 |Go|REST/gRPC APIs|
 
 #### Additional
 
-* Study and research about Machine learning, deep learning, Quantum physics, mechanics and computing, and Biomimicry.
+* Study about Machine learning, deep learning, Quantum physics, mechanics and computing, and Biomimicry.
 
 * Birds, wildlife, nature photographer and traveller.
