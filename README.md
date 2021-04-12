@@ -8,7 +8,7 @@ I'm currently working as Sr. Software Engineer @ PayPal. Part of PayPal's Comput
 ### Programming languages and usage:
 
 * JavaScript - Web platform, API REST/GraphQL APIs, frameworks/libraries, charts etc.
-* Python - Machine learning, deep learning, automation etc.
+* Python - MLOps, Machine learning, deep learning, automation etc.
 * Go - REST/gRPC APIs
 
 #### Additional
