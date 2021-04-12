@@ -11,7 +11,7 @@ On daily basics, I generally work with below listed programming languages and ha
 
 |Programming languages|My usage|
 |:---|:---|
-|JavaScript|Web platform, websites, REST/GRAPHQL APIs, frameworks/libraries/CLI|
+|JavaScript|Web platform/websites, REST/GRAPHQL APIs, frameworks/libraries/CLI|
 |Python|MLOps, NLP, machine learning, deep learning, REST APIs, automation, frameworks/libraries/CLI|
 |Go|REST/gRPC APIs|
 
