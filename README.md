@@ -1,11 +1,29 @@
 # Hi There 👋
 
-I'm currently working as `Sr. Software Engineer @ PayPal`. Part of PayPal's `Compute Platform Engineering` team and closely work with `Global Data Science` and `Research` team.
+`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering Risk Infra` team. Closely work with `Global Data Science` and `Research` to productionize models.
 
-* Work on `Risk Infra Platforms`. Core work includes model repository, inferencing, performance, tracking, MLOps pipeline, and tools.
+* Build platforms & tools with respect to MLOps pipeline, model repository, inferencing, and training.
 
-#### Additional
+## Interests & Continuous Learning on
 
-* Continuous learning about ML, DNN, Quantum, and Biomimicry.
+1. Machine Learning & Deep Learning
 
-* Birds, wildlife, nature photographer and traveller.
+2. Quantum Information Science, Physics & Computing
+
+3. Biomimicry
+
+## What interests me?
+
+
+
+## Free time activities
+
+1. Bird watching, and Photography - Follow me at [@exploregeographics](https://www.instagram.com/exploregeographics/) or scan below QR Code
+
+<pre>
+    <img src="./insta_qr_code.jpeg" style="width: 320px;" />
+</pre>
+
+2. Travelling
+
+3. Languages
