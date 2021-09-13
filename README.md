@@ -1,8 +1,10 @@
 # Hi There 👋
 
-`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering Risk Infra` team. Closely work with `Global Data Science` and `Research` to productionize models.
+`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team under `Risk Infra`. Closely work with `Global Data Science` and `Research` to productionize models.
 
-* Build platforms & tools with respect to MLOps pipeline, model repository, inferencing, and training.
+* Build platforms, services and tools for MLOps pipeline, model repository, inferencing, and training.
+
+* Tech author, trainer, and mentor.
 
 ## Interests & Continuous Learning on
 
@@ -14,7 +16,21 @@
 
 ## What interests me?
 
+Coming Soon
 
+## Achievements
+
+### Patents
+
+|Title|Status|
+|:---|:---|
+|Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm|Filled|
+
+### Published Video Courses
+
+|Publication|Topic|Link|
+|:---|:---|:---|
+|Packt|GraphQL|https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627|
 
 ## Free time activities
 
