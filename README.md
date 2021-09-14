@@ -1,12 +1,12 @@
-# Hi There 👋
+# Hi there 👋
 
 `Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team under `Risk Infra`. Closely work with `Global Data Science` and `Research` to productionize models.
 
-* Build platforms, services and tools for MLOps pipeline, model repository, inferencing, and training.
+* Build platforms, services and tools for MLOps pipeline, model repository, tuning, inferencing, and training.
 
 * Tech author, trainer, and mentor.
 
-## Interests & Continuous Learning on
+## Interests & continuous learning on
 
 1. Machine Learning & Deep Learning
 
@@ -16,17 +16,19 @@
 
 ## What interests me?
 
-Coming Soon
+* AI on wildlife ecosystem for better help at large scale.
+
+* Gravaty and theory of relatively
 
 ## Achievements
 
-### Patents
+### Filled patents
 
 |Title|Status|
 |:---|:---|
 |Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm|Filled|
 
-### Published Video Courses
+### Published video courses
 
 |Publication|Topic|Link|
 |:---|:---|:---|
