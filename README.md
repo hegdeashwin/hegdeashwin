@@ -14,11 +14,13 @@
 
 3. Biomimicry
 
-## What interests me?
+## What fascinate me?
 
-* AI on wildlife ecosystem for better help at large scale.
+* Einstein's general theory of relativity
 
-* Gravaty and theory of relatively
+* AI help in protecting wildlife
+
+* Nature inspired AI 
 
 ## Achievements
 
