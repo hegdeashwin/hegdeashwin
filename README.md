@@ -36,6 +36,15 @@
 |:---|:---|:---|
 |Packt|GraphQL|https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627|
 
+## Profiles
+
+|Platforms|Link|
+|:---|:---|
+|GitHub|https://github.com/hegdeashwin|
+|Kaggle|https://www.kaggle.com/hegdeashwin|
+|Linkedin|https://in.linkedin.com/in/hegdeashwin|
+|Stackoverflow|https://stackoverflow.com/users/1923575/ashwin-hegde|
+
 ## Free time activities
 
 1. Bird watching, and Photography - Follow me at [@exploregeographics](https://www.instagram.com/exploregeographics/) or scan below QR Code
