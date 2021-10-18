@@ -1,6 +1,6 @@
 # Hi there 👋
 
-`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team under `Risk Infra`. Closely work with `Global Data Science` and `Research` to productionize models.
+`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on pre-production environment, and model repository.
 
 * Build platforms, services and tools for MLOps pipeline, model repository, tuning, inferencing, and training.
 
