@@ -14,11 +14,11 @@
 
 3. Biomimicry
 
-## What fascinate me?
+## What fascinates me?
 
-* Einstein's general theory of relativity
+* Einstein's special and general theory of relativity
 
-* AI help in protecting wildlife
+* Protecting wildlife with AI
 
 * Nature inspired AI 
 
