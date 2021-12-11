@@ -1,8 +1,6 @@
 # Hi there 👋
 
-`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on pre-production environment, and model repository.
-
-* Build platforms, services and tools for MLOps pipeline, model repository, tuning, inferencing, and training.
+`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on building platforms, APIs, libraries and frameworks for MLOps pipeline, pre-production environment, tuning, training & inferencing and model repository.
 
 * Tech author, trainer, and mentor.
 
@@ -13,6 +11,8 @@
 2. Quantum Information Science, Physics & Computing
 
 3. Biomimicry
+
+4. Ornithology
 
 ## What fascinates me?
 
@@ -45,7 +45,7 @@
 |Linkedin|https://in.linkedin.com/in/hegdeashwin|
 |Stackoverflow|https://stackoverflow.com/users/1923575/ashwin-hegde|
 
-## Free time activities
+## Other activities
 
 1. Bird watching, and Photography - Follow me at [@exploregeographics](https://www.instagram.com/exploregeographics/) or scan below QR Code
 
