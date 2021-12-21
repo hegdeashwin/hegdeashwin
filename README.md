@@ -2,7 +2,7 @@
 
 `Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on building platforms, APIs, libraries and frameworks for MLOps pipeline, pre-production environment, tuning, training & inferencing and model repository.
 
-* Tech author, trainer, and mentor.
+* Trainer, Mentor, and Tech author.
 
 ## Interests & continuous learning on
 
@@ -53,6 +53,15 @@
     <img src="./insta_qr_code.jpeg" style="width: 320px;" />
 </pre>
 
-2. Travelling
+2. Languages
 
-3. Languages
+| Language | Level |
+|:---|:---|
+| English | |
+| Kannada | |
+| Hindi | |
+| Gujarati | |
+| Marathi | |
+| Japanese | |
+| Mandarin | |
+| Spanish | |
