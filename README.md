@@ -12,8 +12,6 @@
 
 3. Biomimicry
 
-4. Ornithology
-
 ## What fascinates me?
 
 * Einstein's special and general theory of relativity
@@ -21,6 +19,14 @@
 * Protecting wildlife with AI
 
 * Nature inspired AI 
+
+## Education
+
+| Degree | Field | University |
+|:---|:---|:---|
+| Certification | Ornithology | Indian Institute of Science |
+| Masters | Compute Science and Applications | Pune University |
+| Bachelors | Compute Science and Applications | South Gujarat |
 
 ## Achievements
 
