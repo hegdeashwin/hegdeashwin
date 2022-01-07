@@ -61,13 +61,13 @@
 
 2. Languages
 
-| Language | Level |
+| Language | Comprehension level |
 |:---|:---|
-| English | |
-| Kannada | |
-| Hindi | |
-| Gujarati | |
-| Marathi | |
-| Japanese | |
-| Mandarin | |
-| Spanish | |
+| English | Fluent |
+| Hindi | Proficient |
+| Kannada | Proficient |
+| Gujarati | Proficient |
+| Marathi | Intermediate |
+| Japanese | Beginner |
+| Mandarin | Beginner |
+| Spanish | Beginner |
