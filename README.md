@@ -22,7 +22,7 @@ Love and contribute working on open source projects, study about classical and q
 
 * Protecting wildlife with AI
 
-* Nature inspired AI 
+* Nature inspire AI 
 
 ## Preferred programming languages
 
