@@ -1,8 +1,12 @@
 # Hi there 👋
 
-`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on building platforms, APIs, libraries and frameworks for MLOps pipeline, pre-production environment, tuning, training & inferencing and model repository.
+Software craftsman @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
 
-* Trainer, Mentor, and Tech author.
+Study Ornithology and exploring the ideas around nature inspire AI engineering (Biomimicry).
+
+Technical mentor, trainer, author and speaker.
+
+Love and contribute working on open source projects, study about classical and quantum physics, mechanics, and computing.
 
 ## Interests & continuous learning on
 
@@ -19,6 +23,14 @@
 * Protecting wildlife with AI
 
 * Nature inspired AI 
+
+## Preferred programming languages
+
+| Language | Purpose |
+|:---|:---|
+| JavaScript | Web apps and services (REST, GraphQL), CLI scripts, frameworks and libraries, automation, AI/ML |
+| Python | AI/ML, mathematics, data science and research, automation, web services (REST), CLI scripts, frameworks and libraries |
+| Golang & Java | Web services (REST, gRPC) |
 
 ## Education
 
