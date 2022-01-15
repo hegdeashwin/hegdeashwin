@@ -29,7 +29,7 @@ Love and contribute working on open source projects, study about classical and q
 | Language | Purpose |
 |:---|:---|
 | JavaScript | Web apps and services (REST, GraphQL), CLI scripts, frameworks and libraries, automation, AI/ML |
-| Python | AI/ML, mathematics, data science and research, workflow orchestration, automation, web services (REST), CLI scripts, frameworks and libraries |
+| Python | AI/ML, mathematics, data science and research, workflow orchestration, automation, web services (REST, gRPC), CLI scripts, frameworks and libraries |
 | Golang & Java | Web services (REST, gRPC) |
 
 ## Education
