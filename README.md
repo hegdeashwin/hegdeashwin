@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Software craftsman @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
+Software craftsman (MTS-1) @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
 
 Study Ornithology and exploring the ideas around nature inspire AI engineering (Biomimicry).
 
