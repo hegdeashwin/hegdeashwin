@@ -1,10 +1,12 @@
 # Hi there 👋
 
-`Software Craftsman` at `PayPal`. Part of `Compute Platform Engineering` team for `Risk Infra`. Closely work with `Global Data Science` and `Research` on pre-production environment, and model repository.
+Software craftsman (MTS-1) @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
 
-* Build platforms, services and tools for MLOps pipeline, model repository, tuning, inferencing, and training.
+Study Ornithology and explore the ideas around nature inspire AI engineering (Biomimicry).
 
-* Tech author, trainer, and mentor.
+Technical mentor, trainer, author and speaker.
+
+Love and contribute working on open source projects, study about classical and quantum physics, mechanics, and computing.
 
 ## Interests & continuous learning on
 
@@ -18,9 +20,7 @@
 
 * Einstein's special and general theory of relativity
 
-* Protecting wildlife with AI
-
-* Nature inspired AI 
+* Nature inspire and protecting wildlife with AI
 
 ## Achievements
 
