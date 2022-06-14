@@ -2,7 +2,7 @@
 
 Software craftsman (MTS-1) @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
 
-Study Ornithology and exploring the ideas around nature inspire AI engineering (Biomimicry).
+Study Ornithology and explore the ideas around nature inspire AI engineering (Biomimicry).
 
 Technical mentor, trainer, author and speaker.
 
@@ -20,23 +20,22 @@ Love and contribute working on open source projects, study about classical and q
 
 * Einstein's special and general theory of relativity
 
-* Protecting wildlife with AI
+* Nature inspire and protecting wildlife with AI
 
-* Nature inspire AI 
+## Preferred Tech Stack
 
-## Preferred programming languages
-
-| Language | Purpose |
+| Categories | Preferred Usage |
 |:---|:---|
-| JavaScript | Web apps and services (REST, GraphQL), CLI scripts, frameworks and libraries, automation, AI/ML |
-| Python | AI/ML, mathematics, data science and research, workflow orchestration, automation, web services (REST, gRPC), CLI scripts, frameworks and libraries |
-| Golang & Java | Web services (REST, gRPC) |
+| JavaScript | Web apps (React, framework agnostic), (REST, GraphQL, gRPC) web services (Express, framework agnostic), CLI, automation, lite AI/ML |
+| Python | AI/ML, mathematics, data science and research, automation, (REST, gRPC) web services (FastAPI, framework agnostic) |
+| Go & Java | (REST, gRPC) Web services |
+| DevOps/Tools | Docker, Jenkins, CICD, SonarQube, Kubernetes, Airflow workflow orachestration |
 
 ## Education
 
 | Degree | Field | University |
 |:---|:---|:---|
-| Certification | Ornithology | Indian Institute of Science |
+| Certification | Ornithology | IISc |
 | Masters | Compute Science and Applications | Pune University |
 | Bachelors | Compute Science and Applications | South Gujarat |
 
