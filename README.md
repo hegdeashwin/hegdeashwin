@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Software craftsman @ PayPal. Part of Compute Platform Risk Engineering group. Work closely with Data Science and Research team to build Platforms, SDK/APIs/UI, Pipelines, Automation around AIML deliveries like MLOps, Model Repository and Inference on pre-production and production env.
+Software craftsman @ PayPal. Part of Compute Platform Risk Engineering group. Work closely with Data Science and Research team to build Platforms, SDK/APIs/UI, Pipelines, Automation around AIML deliveries on MLOps, Model Repository and Inferencing on pre-production and production env.
 
 Design, develop, & maintain distributed system platform and services. I enjoy the craft of building software. Team mentor and trainer to scale up on domain, technical and systems knowledge.
 
