@@ -1,58 +1,19 @@
 # Hi there 👋
 
-Software craftsman (MTS-1) @ PayPal. Part of Compute Platform Engineering team under Risk Infra group. Work closely with data science and research team to build platforms/tools/pipelines/automation around productionizing models, MLOps, model repository, model inference and monitoring.
+Software craftsman @ PayPal. Part of Compute Platform Risk Engineering group. Work closely with Data Science and Research team to build Platforms, SDK/APIs/UI, Pipelines, Automation around AIML deliveries like MLOps, Model Repository and Inference on pre-production and production env.
 
-Study Ornithology and explore the ideas around nature inspire AI engineering (Biomimicry).
+Design, develop, & maintain distributed system platform and services. I enjoy the craft of building software. Team mentor and trainer to scale up on domain, technical and systems knowledge.
 
-Technical mentor, trainer, author and speaker.
-
-Love and contribute working on open source projects, study about classical and quantum physics, mechanics, and computing.
-
-## Interests & continuous learning on
-
-1. Machine Learning & Deep Learning
-
-2. Quantum Information Science, Physics & Computing
-
-3. Biomimicry
+On my free time I do enjoy birds watching & photography, study Ornithology to improve on my domain knowledge and research. Follow me on Instagram at [@exploregeographics](https://instagram.com/exploregeographics)
 
 ## What fascinates me?
 
-* Einstein's special and general theory of relativity
+1. Science - Gravity, Quantum Physics & Mechanics.
+2. Einstein's special and general theory of relativity.
+3. Nature inspired engineering (Biomimicry).
 
-* Nature inspire and protecting wildlife with AI
+## Others
 
-## Achievements
+1. (Filed Patent) Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm.
 
-### Filled patents
-
-|Title|Status|
-|:---|:---|
-|Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm|Filled|
-
-### Published video courses
-
-|Publication|Topic|Link|
-|:---|:---|:---|
-|Packt|GraphQL|https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627|
-
-## Profiles
-
-|Platforms|Link|
-|:---|:---|
-|GitHub|https://github.com/hegdeashwin|
-|Kaggle|https://www.kaggle.com/hegdeashwin|
-|Linkedin|https://in.linkedin.com/in/hegdeashwin|
-|Stackoverflow|https://stackoverflow.com/users/1923575/ashwin-hegde|
-
-## Free time activities
-
-1. Bird watching, and Photography - Follow me at [@exploregeographics](https://www.instagram.com/exploregeographics/) or scan below QR Code
-
-<pre>
-    <img src="./insta_qr_code.jpeg" style="width: 320px;" />
-</pre>
-
-2. Travelling
-
-3. Languages
+2. (Published Video by Packt) [GraphQL a better REST](https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627)
