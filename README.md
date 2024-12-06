@@ -14,6 +14,5 @@ On my free time I do enjoy birds watching & photography, study Ornithology to im
 
 ## Others
 
-1. (Filed Patent) Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm.
-
+1. (US12047391, Patent Issued Jul 25, 2024) [Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm.](https://patents.justia.com/patent/12047391)
 2. (Published Video by Packt) [GraphQL a better REST](https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627)
