@@ -1,10 +1,10 @@
 # Hi there 👋
 
-Software craftsman @ PayPal. Part of Compute Platform Risk Engineering group. Work closely with Data Science and Research team to build Platforms, SDK/APIs/UI, Pipelines, Automation around AIML deliveries on MLOps, Model Repository and Inferencing on pre-production and production env.
+Software craftsman @ PayPal. I enjoy the craft of building software for AIML / MLOps / Gen AI / Infra Platforms deliveries. Hands-on experience building API, SDK, UI, Pipelines, Automation, Distributed System, Research etc.
 
-Design, develop, & maintain distributed system platform and services. I enjoy the craft of building software. Team mentor and trainer to scale up on domain, technical and systems knowledge.
+Team mentor and trainer to scale up and scale out on domain, technical and systems knowledge. In my free time, I indulge in bird watching, photography, Ornithology and study Physics.
 
-On my free time I do enjoy birds watching & photography, study Ornithology to improve on my domain knowledge and research. Follow me on Instagram at [@exploregeographics](https://instagram.com/exploregeographics)
+Follow me on Instagram at @exploregeographics or https://youtube.com/@exploregeographics
 
 ## What fascinates me?
 
