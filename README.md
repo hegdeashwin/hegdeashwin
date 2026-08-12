@@ -12,7 +12,16 @@ Follow me on Instagram at @exploregeographics or https://youtube.com/@exploregeo
 2. Einstein's special and general theory of relativity.
 3. Nature inspired engineering (Biomimicry).
 
-## Others
+## Publications
 
-1. US12047391, Patent Issued Jul 25, 2024 - [Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm.](https://patents.justia.com/patent/12047391)
-2. Published Video by Packt - [GraphQL a better REST](https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627)
+### Research Paper
+
+- [x] [Task-to-Model Optimization for Enterprise LLM Coding Assistants:
+A Data-Driven Framework for Cost-Optimal Routing](https://arxiv.org/pdf/2608.08528)
+### Patents
+
+- [x] US12047391, Patent Issued Jul 25, 2024 - [Optimal compressed feature representation deployment for automated refresh in event driven deep learning paradigm.](https://patents.justia.com/patent/12047391)
+
+### Udemy / Packt
+
+- [x] Published Video by Packt - [GraphQL a better REST](https://www.packtpub.com/product/hands-on-graphql-for-better-restful-web-services-video/9781788995627)
